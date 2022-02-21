@@ -1,0 +1,23 @@
+.container{
+  position: absolute;
+  left: 50%;
+  top: 10%;
+}
+p{
+  display: flex;
+  flex-direction: column;
+  font-weight: 600;
+}
+h1{
+  color: aqua;
+  padding: 0;
+  margin: 0;
+}
+span{
+  font-weight: 150;
+  font-size: small;
+  color: grey;
+}
+.profile{
+  text-align: justify;
+}
